@@ -7,6 +7,9 @@ to be retrained with the same cadence, necessitating an end-to-end pipeline that
 # Github Link
 https://github.com/tannerwest-analyst/Project-Build-an-ML-Pipeline-Starter.git
 
+# Weights and Biases Link
+https://forge.coreweave.com/wandb/tannerwest-western-governors-university/nyc_airbnb
+
 ## License
 
 [License](LICENSE.txt)
